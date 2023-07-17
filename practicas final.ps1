@@ -1,0 +1,1 @@
+az vm create  --resource-group cloud-shell-storage-eastus --name emiliojarquinVM --image UbuntuLTS --size Standard_DS1_v2 --authentication-type ssh --generate-ssh-keys --admin-username saidvm
